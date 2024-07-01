@@ -1,0 +1,1 @@
+keyword_path = "D:\Study\workspace\TPLs_Crawler\ObfuscationSort\wordlist.txt"

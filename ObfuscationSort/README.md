@@ -1,0 +1,1 @@
+You need to download a ANDROID_SDK in dir Obfuscation/sdk
